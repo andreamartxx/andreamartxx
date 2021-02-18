@@ -14,8 +14,8 @@ In learning process...Java, HTML, CSS
 
 ## Where to find me:
 
-[![Discord](https://img.shields.io/badge/Discord-@andreamartxx-338563?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=FF5733)](https://discord.com/channels/@me)
+[![Discord](https://img.shields.io/badge/Discord-@andreamartxx-33C4FF?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=FF5733)](https://discord.com/channels/@me)
 </br>
-[![Instagram](https://img.shields.io/badge/Instagram-@andreamartxx-338563?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=33FFCA)](https://instagram.com/andreamartxx)</br>
-[![YouTube](https://img.shields.io/badge/YouTube-@andreamartin-338563?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=FF5733)](https://www.youtube.com/channel/UCpFUJCDlNoYUD9HMKzFL3qg)
+[![Instagram](https://img.shields.io/badge/Instagram-@andreamartxx-FFE333?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=33FFCA)](https://instagram.com/andreamartxx)</br>
+[![YouTube](https://img.shields.io/badge/YouTube-@andreamartin-DA33FF?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=FF5733)](https://www.youtube.com/channel/UCpFUJCDlNoYUD9HMKzFL3qg)
 
