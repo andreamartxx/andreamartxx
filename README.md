@@ -11,6 +11,8 @@ In learning process...Java, HTML, CSS, PHP, JavaScript
 [![CSS](https://img.shields.io/badge/CSS-339933?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 ## Where to find me:
 
