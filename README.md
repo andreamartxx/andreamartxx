@@ -19,7 +19,7 @@ In learning process...Java, HTML, CSS, PHP, JavaScript
 </br>
 [![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 
-##Learning right now:
+## Learning right now:
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 
 ## Where to find me:
